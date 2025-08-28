@@ -1,0 +1,6 @@
+projectKey=PythonProject43
+serverUrl=http://localhost:9000
+serverVersion=25.8.0.112029
+dashboardUrl=http://localhost:9000/dashboard?id=PythonProject43
+ceTaskId=8fd3f5e3-494c-4131-9884-bfc61a9fce8f
+ceTaskUrl=http://localhost:9000/api/ce/task?id=8fd3f5e3-494c-4131-9884-bfc61a9fce8f
