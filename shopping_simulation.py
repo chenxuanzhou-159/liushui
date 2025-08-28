@@ -1,3 +1,11 @@
+# 解决Windows命令行编码问题
+import sys
+import io
+# 强制标准输出使用UTF-8编码
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+
+# 以下是你的原有脚本代码
+# ...（省略其他代码）
 class Product:
     """商品类，存储商品信息"""
 
